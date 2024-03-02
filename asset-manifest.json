@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6221590.css",
-    "main.js": "/static/js/main.e146cbe6.js",
-    "static/js/453.271fd94d.chunk.js": "/static/js/453.271fd94d.chunk.js",
-    "static/media/image3.jpg": "/static/media/image3.c2496eb6b6e09c8fdf07.jpg",
-    "static/media/image2.jpg": "/static/media/image2.10f5c87f0d8eec749b8b.jpg",
-    "static/media/image5.jpg": "/static/media/image5.c43d056bcbca9ebbc2ef.jpg",
-    "static/media/image1.jpg": "/static/media/image1.8fdf0a21f149a7825978.jpg",
-    "static/media/image4.jpg": "/static/media/image4.112ed641293617670cf0.jpg",
-    "static/media/gkilogo.png": "/static/media/gkilogo.c36805f6b57891457f7d.png",
-    "index.html": "/index.html",
-    "main.f6221590.css.map": "/static/css/main.f6221590.css.map",
-    "main.e146cbe6.js.map": "/static/js/main.e146cbe6.js.map",
-    "453.271fd94d.chunk.js.map": "/static/js/453.271fd94d.chunk.js.map"
+    "main.css": "/https://petermeshack.github.io/ikgsolutions.github.io/static/css/main.bb74a64a.css",
+    "main.js": "/https://petermeshack.github.io/ikgsolutions.github.io/static/js/main.6f97a32e.js",
+    "static/js/453.271fd94d.chunk.js": "/https://petermeshack.github.io/ikgsolutions.github.io/static/js/453.271fd94d.chunk.js",
+    "static/media/image3.jpg": "/https://petermeshack.github.io/ikgsolutions.github.io/static/media/image3.c2496eb6b6e09c8fdf07.jpg",
+    "static/media/image2.jpg": "/https://petermeshack.github.io/ikgsolutions.github.io/static/media/image2.10f5c87f0d8eec749b8b.jpg",
+    "static/media/image5.jpg": "/https://petermeshack.github.io/ikgsolutions.github.io/static/media/image5.c43d056bcbca9ebbc2ef.jpg",
+    "static/media/image1.jpg": "/https://petermeshack.github.io/ikgsolutions.github.io/static/media/image1.8fdf0a21f149a7825978.jpg",
+    "static/media/image4.jpg": "/https://petermeshack.github.io/ikgsolutions.github.io/static/media/image4.112ed641293617670cf0.jpg",
+    "static/media/gkilogo.png": "/https://petermeshack.github.io/ikgsolutions.github.io/static/media/gkilogo.c36805f6b57891457f7d.png",
+    "index.html": "/https://petermeshack.github.io/ikgsolutions.github.io/index.html",
+    "main.bb74a64a.css.map": "/https://petermeshack.github.io/ikgsolutions.github.io/static/css/main.bb74a64a.css.map",
+    "main.6f97a32e.js.map": "/https://petermeshack.github.io/ikgsolutions.github.io/static/js/main.6f97a32e.js.map",
+    "453.271fd94d.chunk.js.map": "/https://petermeshack.github.io/ikgsolutions.github.io/static/js/453.271fd94d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6221590.css",
-    "static/js/main.e146cbe6.js"
+    "static/css/main.bb74a64a.css",
+    "static/js/main.6f97a32e.js"
   ]
 }
