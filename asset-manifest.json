@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ikgsolutions.github.io/static/css/main.fd6e2acc.css",
-    "main.js": "/ikgsolutions.github.io/static/js/main.f0634020.js",
+    "main.js": "/ikgsolutions.github.io/static/js/main.ea5b12f6.js",
     "static/js/453.271fd94d.chunk.js": "/ikgsolutions.github.io/static/js/453.271fd94d.chunk.js",
     "static/media/image3.jpg": "/ikgsolutions.github.io/static/media/image3.c2496eb6b6e09c8fdf07.jpg",
     "static/media/image2.jpg": "/ikgsolutions.github.io/static/media/image2.10f5c87f0d8eec749b8b.jpg",
@@ -11,11 +11,11 @@
     "static/media/gkilogo.png": "/ikgsolutions.github.io/static/media/gkilogo.c36805f6b57891457f7d.png",
     "index.html": "/ikgsolutions.github.io/index.html",
     "main.fd6e2acc.css.map": "/ikgsolutions.github.io/static/css/main.fd6e2acc.css.map",
-    "main.f0634020.js.map": "/ikgsolutions.github.io/static/js/main.f0634020.js.map",
+    "main.ea5b12f6.js.map": "/ikgsolutions.github.io/static/js/main.ea5b12f6.js.map",
     "453.271fd94d.chunk.js.map": "/ikgsolutions.github.io/static/js/453.271fd94d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd6e2acc.css",
-    "static/js/main.f0634020.js"
+    "static/js/main.ea5b12f6.js"
   ]
 }
